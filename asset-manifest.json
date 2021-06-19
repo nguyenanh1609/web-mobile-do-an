@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/web-mobile-do-an/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/web-mobile-do-an/static/js/main.f5b42b2c.chunk.js",
-    "main.js.map": "/web-mobile-do-an/static/js/main.f5b42b2c.chunk.js.map",
-    "runtime-main.js": "/web-mobile-do-an/static/js/runtime-main.1487258f.js",
-    "runtime-main.js.map": "/web-mobile-do-an/static/js/runtime-main.1487258f.js.map",
-    "static/js/2.16ce9e39.chunk.js": "/web-mobile-do-an/static/js/2.16ce9e39.chunk.js",
-    "static/js/2.16ce9e39.chunk.js.map": "/web-mobile-do-an/static/js/2.16ce9e39.chunk.js.map",
-    "static/js/3.c77f1f4c.chunk.js": "/web-mobile-do-an/static/js/3.c77f1f4c.chunk.js",
-    "static/js/3.c77f1f4c.chunk.js.map": "/web-mobile-do-an/static/js/3.c77f1f4c.chunk.js.map",
+    "main.css": "/web-mobile-do-an/static/css/main.58b0be50.chunk.css",
+    "main.js": "/web-mobile-do-an/static/js/main.1586c96b.chunk.js",
+    "main.js.map": "/web-mobile-do-an/static/js/main.1586c96b.chunk.js.map",
+    "runtime-main.js": "/web-mobile-do-an/static/js/runtime-main.2c37e8be.js",
+    "runtime-main.js.map": "/web-mobile-do-an/static/js/runtime-main.2c37e8be.js.map",
+    "static/js/2.2b221b7d.chunk.js": "/web-mobile-do-an/static/js/2.2b221b7d.chunk.js",
+    "static/js/2.2b221b7d.chunk.js.map": "/web-mobile-do-an/static/js/2.2b221b7d.chunk.js.map",
+    "static/js/3.dec71cbf.chunk.js": "/web-mobile-do-an/static/js/3.dec71cbf.chunk.js",
+    "static/js/3.dec71cbf.chunk.js.map": "/web-mobile-do-an/static/js/3.dec71cbf.chunk.js.map",
     "index.html": "/web-mobile-do-an/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/web-mobile-do-an/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.16ce9e39.chunk.js.LICENSE.txt": "/web-mobile-do-an/static/js/2.16ce9e39.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/web-mobile-do-an/static/media/logo.6ce24c58.svg"
+    "static/css/main.58b0be50.chunk.css.map": "/web-mobile-do-an/static/css/main.58b0be50.chunk.css.map",
+    "static/js/2.2b221b7d.chunk.js.LICENSE.txt": "/web-mobile-do-an/static/js/2.2b221b7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1487258f.js",
-    "static/js/2.16ce9e39.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.f5b42b2c.chunk.js"
+    "static/js/runtime-main.2c37e8be.js",
+    "static/js/2.2b221b7d.chunk.js",
+    "static/css/main.58b0be50.chunk.css",
+    "static/js/main.1586c96b.chunk.js"
   ]
 }
